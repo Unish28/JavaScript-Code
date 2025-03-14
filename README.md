@@ -1,2 +1,4 @@
 # JavaScript-Code
-Practice JavaScript Codes
+Practice JavaScript Codes 
+Code that I used to practice Js.
+
